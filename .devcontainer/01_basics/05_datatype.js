@@ -13,8 +13,10 @@
 // "33abc" => NaN
 // true => 1;  false =>
 
-let isLoggedIn = "Faisal"
+// let isLoggedIn = "Faisal"
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log( booleanIsLoggedIn );
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// console.log( booleanIsLoggedIn );
+
+
  
