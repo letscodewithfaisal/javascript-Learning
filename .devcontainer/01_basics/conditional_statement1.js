@@ -26,5 +26,5 @@
 const age = 17;
 // age >= 18 ? console.log('yes') : console.log('No')
 
-let result = age >= 18 ? 'yes' : 'No'
+let result = age >= 20 ? 'yes' : 'No'
 console.log(result)
