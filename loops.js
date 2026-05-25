@@ -2,9 +2,9 @@
 
 // For loops -> if you know how many times you want to loop through something
 
-// for (let i = 1; i<=10; i++) {
-//     console.log('faisal' + i)
-// }
+for (let i = 1; i<=20; i = i + 2) {
+    console.log('faisal' + i)
+}
 
 /*
 while -> if you don't know how many times you want to loop through something
@@ -25,14 +25,14 @@ while -> if you don't know how many times you want to loop through something
 
 // for example Guess the input
 
- let number = 40;
- let guess = 0;
+//  let number = 40;
+//  let guess = 0;
 
- do {
-    guess = parseInt(prompt('Guess the number'))
-    if (guess == number) {
+//  do {
+//     guess = parseInt(prompt('Guess the number'))
+//     if (guess == number) {
         
-        alert('winner')
-        break;
-    }
- } while (guess !=0)
+//         alert('winner')
+//         break;
+//     }
+//  } while (guess !=0)
