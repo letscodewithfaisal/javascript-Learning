@@ -29,3 +29,12 @@
 // fetch("https://jsonplaceholder.typicode.com/users")
 //   .then(response => response.json())
 //   .then(data => console.log(data));
+
+// 7. Search Feature
+const products = ["Laptop", "Phone", "Tablet"];
+
+const result = products.filter(product =>
+  product.includes("Phone")
+);
+
+console.log(result);
