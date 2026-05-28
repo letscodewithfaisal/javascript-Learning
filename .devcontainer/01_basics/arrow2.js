@@ -16,12 +16,16 @@
 // console.log(updatedPrices);
 
 // 3. Filtering Users
-const users = [
-  { name: "Tony", active: true },
-  { name: "Rahul", active: false },
-  { name: "Aman", active: true }
-];
+// const users = [
+//   { name: "Tony", active: true },
+//   { name: "Rahul", active: false },
+//   { name: "Aman", active: true }
+// ];
 
-const activeUsers = users.filter(user => user.active);
+// const activeUsers = users.filter(user => user.active);
 
-console.log(activeUsers);
+
+// 5. API Data Handling
+// fetch("https://jsonplaceholder.typicode.com/users")
+//   .then(response => response.json())
+//   .then(data => console.log(data));
