@@ -25,16 +25,21 @@
 // const activeUsers = users.filter(user => user.active);
 
 
-// 5. API Data Handling
+// 4. API Data Handling
 // fetch("https://jsonplaceholder.typicode.com/users")
 //   .then(response => response.json())
 //   .then(data => console.log(data));
 
-// 7. Search Feature
-const products = ["Laptop", "Phone", "Tablet"];
+// 5. Search Feature
+// const products = ["Laptop", "Phone", "Tablet"];
 
-const result = products.filter(product =>
-  product.includes("Phone")
-);
+// const result = products.filter(product =>
+//   product.includes("Phone")
+// );
 
-console.log(result);
+// console.log(result);
+
+// 6. React Example
+// const Welcome = () => {
+//   return <h1>Hello User</h1>;
+// };
