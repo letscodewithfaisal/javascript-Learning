@@ -1,0 +1,14 @@
+Phase 6: Git & GitHub ⭐ VERY IMPORTANT
+
+Learn:
+
+Git basics
+Commit
+Push
+Pull
+Branches
+GitHub repositories
+
+Practice:
+
+Upload all projects on GitHub

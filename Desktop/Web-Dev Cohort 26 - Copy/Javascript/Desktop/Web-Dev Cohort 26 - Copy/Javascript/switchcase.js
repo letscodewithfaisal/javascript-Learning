@@ -19,19 +19,19 @@
 // }
 
 let a = 30;
-let opt = '-'
+let opt = '*'
 let b = 20;
 
 switch (opt) {
     case '+': {
         console.log(a + b);
-    } 
+    } break;
 
     case '-': console.log(a - b);
-    
+    break;
     case '*': console.log(a * b);
-   
+    break;
     case '/': console.log(a / b);
-    
+    break;
 
 }
